@@ -48,41 +48,6 @@ Combino desarrollo frontend con buenas prácticas de **diseño de interfaces**, 
 - VS Code  
 
 ---
-
-## 🚀 Proyectos destacados
-
-### 📸 FM Dos – Plataforma de Concurso Fotográfico
-Sistema completo con:
-- autenticación (Auth0)
-- carga de imágenes (Cloudinary)
-- votación única por usuario
-- panel administrativo
-- correos automáticos
-
-**Stack:** React · Node · MongoDB · Docker
-
----
-
-### 🌐 Portfolio Personal
-Sitio web con foco en:
-- performance
-- diseño moderno
-- UX clara
-- responsive
-
-**Stack:** React · Tailwind CSS
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krpardo27&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krpardo27&layout=compact&theme=tokyonight" height="160"/>
-</div>
-
----
-
 ## 📫 Contacto
 
 Si te interesa colaborar o conversar sobre desarrollo web:
