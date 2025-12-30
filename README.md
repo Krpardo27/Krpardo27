@@ -20,20 +20,20 @@ Frontend / Full-Stack Developer · React · UI Architecture
 
 Soy **Desarrollador Web de Chile**, enfocado en construir **interfaces modernas, accesibles y orientadas al rendimiento**, con experiencia real en aplicaciones **full-stack**.
 
-Trabajo principalmente con **React y el stack MERN**, desarrollando:
-- paneles administrativos
-- sistemas de votación
-- plataformas con autenticación y roles
-- experiencias de usuario cuidadas al detalle
+He construido soluciones como:
+- paneles administrativos y dashboards
+- sistemas de votación y flujos de participación
+- plataformas con autenticación, roles y permisos
+- interfaces modernas, accesibles y orientadas al detalle visual
 
-Me importa tanto el **código limpio** como la **experiencia final del usuario**.
+Combino desarrollo frontend con buenas prácticas de **diseño de interfaces**, utilizando herramientas como **Tailwind CSS, CSS moderno, Sass y Bootstrap**, cuidando la consistencia visual y la usabilidad en cada proyecto.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 ### Frontend
-- HTML5 · CSS3 · Sass  
+- HTML5 · CSS5 · SASS · Tailwind CSS · Boostrap
 - JavaScript (ES6+)  
 - React · Tailwind CSS  
 
